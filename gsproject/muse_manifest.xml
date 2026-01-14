@@ -1,0 +1,103 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gsproject.com" resolutions="1x" timestamp="1768400917269">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4195748178" ref="index"/>
+    <file name="works-cited.css" crc="4206024554" ref="works-cited"/>
+    <file name="media-s-role.css" crc="449227542" ref="media-s-role"/>
+    <file name="examples-women.css" crc="92235706" ref="examples-women"/>
+    <file name="how-can-we-fix-it.css" crc="401583372" ref="how-can-we-fix-it"/>
+    <file name="examples-men.css" crc="498344886" ref="examples-men"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:examples-women:works-cited:examples-men:media-s-role:how-can-we-fix-it"/>
+    <file name="museutils.js" crc="3939489907" ref="index:examples-women:works-cited:examples-men:media-s-role:how-can-we-fix-it"/>
+    <file name="whatinput.js" crc="86476730" ref="index:examples-women:works-cited:examples-men:media-s-role:how-can-we-fix-it"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:examples-women:works-cited:examples-men:media-s-role:how-can-we-fix-it"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:examples-women:works-cited:examples-men:media-s-role:how-can-we-fix-it"/>
+    <file name="require.js" crc="4177726516" ref="index:examples-women:works-cited:examples-men:media-s-role:how-can-we-fix-it"/>
+  </folder>
+  <folder name="images">
+    <file name="u271-4.png" crc="474432198" ref="index"/>
+    <file name="u349-4.png" crc="303138145" ref="works-cited"/>
+    <file name="u529-4.png" crc="4152557940" ref="examples-men"/>
+    <file name="u532-4.png" crc="426635986" ref="examples-men"/>
+    <file name="u535-4.png" crc="123244270" ref="examples-men"/>
+    <file name="u544-4.png" crc="3852708558" ref="examples-men"/>
+    <file name="u660-4.png" crc="343462046" ref="media-s-role"/>
+    <file name="u239-4.png" crc="303138145" ref="index"/>
+    <file name="istockphoto-1370552866-612x612-removebg-preview.png" crc="3963622647" seo="true" ref="index:works-cited">
+      <caption webpage="index" alt=""/>
+      <caption webpage="works-cited" alt=""/>
+    </file>
+    <file name="u255-4.png" crc="3956751355" ref="index"/>
+    <file name="u258-5.png" crc="3839604045" ref="index"/>
+    <file name="u261-4.png" crc="4065396393" ref="index"/>
+    <file name="u264-4.png" crc="3888397052" ref="index"/>
+    <file name="u268-4.png" crc="4084973477" ref="index"/>
+    <file name="u274-4.png" crc="43797513" ref="index"/>
+    <file name="u277-4.png" crc="22651960" ref="index"/>
+    <file name="screen shot 2026-01-07 at 13259 pm.jpg" crc="286837702" ref="index:examples-women:works-cited:examples-men:media-s-role:how-can-we-fix-it">
+      <caption webpage="index" alt=""/>
+      <caption webpage="how-can-we-fix-it" alt=""/>
+      <caption webpage="examples-men" alt=""/>
+      <caption webpage="media-s-role" alt=""/>
+      <caption webpage="works-cited" alt=""/>
+      <caption webpage="examples-women" alt=""/>
+    </file>
+    <file name="u295-4.png" crc="436216513" ref="examples-women"/>
+    <file name="9-98502_woman-silhouette-png-woman-face-silhouette-png-removebg-preview.png" crc="4050728500" seo="true" ref="examples-women">
+      <caption webpage="examples-women" alt=""/>
+    </file>
+    <file name="u371-4.png" crc="4090981299" ref="examples-women"/>
+    <file name="u374-4.png" crc="116406299" ref="examples-women"/>
+    <file name="u377-4.png" crc="195933579" ref="examples-women"/>
+    <file name="u380-4.png" crc="4196631316" ref="examples-women"/>
+    <file name="u383-4.png" crc="388241414" ref="examples-women"/>
+    <file name="u386-4.png" crc="450261684" ref="examples-women"/>
+    <file name="u389-4.png" crc="3899735941" ref="examples-women"/>
+    <file name="u402-4.png" crc="327867107" ref="examples-women"/>
+    <file name="u424-5.png" crc="487527584" ref="examples-women"/>
+    <file name="u433-4.png" crc="506530502" ref="examples-women"/>
+    <file name="u436-4.png" crc="481482057" ref="examples-women"/>
+    <file name="u452-4.png" crc="270738786" ref="examples-men"/>
+    <file name="istockphoto-1142192548-612x612-removebg-preview.png" crc="181035174" seo="true" ref="examples-men">
+      <caption webpage="examples-men" alt=""/>
+    </file>
+    <file name="u454-4.png" crc="508768596" ref="examples-men"/>
+    <file name="u523-4.png" crc="489047344" ref="examples-men"/>
+    <file name="u526-4.png" crc="79703015" ref="examples-men"/>
+    <file name="u538-4.png" crc="158312352" ref="examples-men"/>
+    <file name="u541-4.png" crc="483855178" ref="examples-men"/>
+    <file name="u547-4.png" crc="4241989731" ref="examples-men"/>
+    <file name="u550-4.png" crc="306983962" ref="examples-men"/>
+    <file name="u553-4.png" crc="459408163" ref="examples-men"/>
+    <file name="u556-4.png" crc="4145767422" ref="examples-men"/>
+    <file name="u468-4.png" crc="481482057" ref="examples-men"/>
+    <file name="u593-4.png" crc="303138145" ref="media-s-role"/>
+    <file name="u597-4.png" crc="4123338938" ref="media-s-role"/>
+    <file name="u596-4.png" crc="3845291803" ref="media-s-role"/>
+    <file name="u654-4.png" crc="4044201788" ref="media-s-role"/>
+    <file name="u657-9.png" crc="322097575" ref="media-s-role"/>
+    <file name="u663-4.png" crc="54765826" ref="media-s-role"/>
+    <file name="u675-4.png" crc="4065515955" ref="media-s-role"/>
+    <file name="u666-4.png" crc="152592888" ref="media-s-role"/>
+    <file name="u678-6.png" crc="3945834392" ref="media-s-role"/>
+    <file name="u609-4.png" crc="481482057" ref="media-s-role"/>
+    <file name="u699-4.png" crc="303138145" ref="how-can-we-fix-it"/>
+    <file name="u702-4.png" crc="4039496437" ref="how-can-we-fix-it"/>
+    <file name="u783-6.png" crc="204879929" ref="how-can-we-fix-it"/>
+    <file name="u786-5.png" crc="3875216600" ref="how-can-we-fix-it"/>
+    <file name="u789-5.png" crc="4086565856" ref="how-can-we-fix-it"/>
+    <file name="u792-5.png" crc="189108954" ref="how-can-we-fix-it"/>
+    <file name="u795-5.png" crc="431086064" ref="how-can-we-fix-it"/>
+    <file name="u798-5.png" crc="287406790" ref="how-can-we-fix-it"/>
+    <file name="u801-4.png" crc="4083937597" ref="how-can-we-fix-it"/>
+    <file name="u703-4.png" crc="481482057" ref="how-can-we-fix-it"/>
+  </folder>
+  <file name="index.html" crc="329467115" seo="true" mt="1768400910664" redirect="true"/>
+  <file name="examples-women.html" crc="3847762120" seo="true" mt="1768183317166" redirect="true"/>
+  <file name="works-cited.html" crc="206779737" seo="true" mt="1768398925353" redirect="true"/>
+  <file name="examples-men.html" crc="4173041809" seo="true" mt="1768397932393" redirect="true"/>
+  <file name="media-s-role.html" crc="157645301" seo="true" mt="1768399662875" redirect="true"/>
+  <file name="how-can-we-fix-it.html" crc="4197619952" seo="true" mt="1768400867301" redirect="true"/>
+</manifest>
